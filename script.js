@@ -12,13 +12,13 @@ project 1 - A Random Quote Generator
 ***/
 let quotes = [
   {
-      quote: "“Two things are infinite: the universe and human stupidity; and I\'m not sure about the universe.”",
+      quote: "Two things are infinite: the universe and human stupidity; and I\'m not sure about the universe.",
       source: "Albert Einstein", 
       citation: "",
       year: "",
   },
   {
-      quote: "\"You cannot shake hands with a closed fist.\"", 
+      quote: "You cannot shake hands with a closed fist.", 
       source: "Indira Ghandi", 
       citation: "",
       year: "",
@@ -42,7 +42,7 @@ let quotes = [
       year: "",
   },
   {
-      quote: "\"A beautiful day begins with a beautiful mindset\"",
+      quote: "A beautiful day begins with a beautiful mindset",
       source: "Unknown",
       citation: "",
       year: "",
